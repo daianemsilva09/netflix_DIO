@@ -14,8 +14,7 @@
 
 body {
     background: #141414;
-    font-family: Arial, Helvetica, sans-serif
-    color: white;
+    font-family: Arial, Helvetica, sans-serif color: white;
 }
 
 header .container {
@@ -47,7 +46,7 @@ header nav a:hover {
 
 .filme-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%), url("/img/Anne.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%), url("Anne.jpg");
     height: 400px;
     background-size: cover;
     display: flex;
@@ -102,5 +101,5 @@ header nav a:hover {
 }
 
 .carrosel-filmes {
-    margin-top:5px;
+    margin-top: 5px;
 }
